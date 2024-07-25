@@ -1,6 +1,6 @@
 import React from "react";
 import BlurFade from "./BlurFade";
-import "./App.css"; // Ajoutez votre CSS dans ce fichier
+import "./App.css";
 
 const Navbar = () => (
   <header className="navbar">
